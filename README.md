@@ -28,8 +28,8 @@ Intelligent electric motor control system developed for **TestResults Automotors
 
 #### 1. Clone the repository
 ```bash
-git clone <repository-url>
-cd motor-control-system
+git clone https://github.com/lmendieta06/motorSignalR.git
+cd motorSignalR
 ```
 
 #### 2. Configure environment variables
