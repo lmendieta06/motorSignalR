@@ -1,0 +1,17 @@
+C:\Users\laume\OneDrive\Documentos\PRUEBAS\CarroPruebaTR\backend\src\MotorControl.Infrastructure\bin\Debug\net8.0\MotorControl.Infrastructure.deps.json
+C:\Users\laume\OneDrive\Documentos\PRUEBAS\CarroPruebaTR\backend\src\MotorControl.Infrastructure\bin\Debug\net8.0\MotorControl.Infrastructure.dll
+C:\Users\laume\OneDrive\Documentos\PRUEBAS\CarroPruebaTR\backend\src\MotorControl.Infrastructure\bin\Debug\net8.0\MotorControl.Infrastructure.pdb
+C:\Users\laume\OneDrive\Documentos\PRUEBAS\CarroPruebaTR\backend\src\MotorControl.Infrastructure\bin\Debug\net8.0\MotorControl.Application.dll
+C:\Users\laume\OneDrive\Documentos\PRUEBAS\CarroPruebaTR\backend\src\MotorControl.Infrastructure\bin\Debug\net8.0\MotorControl.Domain.dll
+C:\Users\laume\OneDrive\Documentos\PRUEBAS\CarroPruebaTR\backend\src\MotorControl.Infrastructure\bin\Debug\net8.0\MotorControl.Application.pdb
+C:\Users\laume\OneDrive\Documentos\PRUEBAS\CarroPruebaTR\backend\src\MotorControl.Infrastructure\bin\Debug\net8.0\MotorControl.Domain.pdb
+C:\Users\laume\OneDrive\Documentos\PRUEBAS\CarroPruebaTR\backend\src\MotorControl.Infrastructure\obj\Debug\net8.0\MotorControl.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\laume\OneDrive\Documentos\PRUEBAS\CarroPruebaTR\backend\src\MotorControl.Infrastructure\obj\Debug\net8.0\MotorControl.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\laume\OneDrive\Documentos\PRUEBAS\CarroPruebaTR\backend\src\MotorControl.Infrastructure\obj\Debug\net8.0\MotorControl.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\laume\OneDrive\Documentos\PRUEBAS\CarroPruebaTR\backend\src\MotorControl.Infrastructure\obj\Debug\net8.0\MotorControl.Infrastructure.AssemblyInfo.cs
+C:\Users\laume\OneDrive\Documentos\PRUEBAS\CarroPruebaTR\backend\src\MotorControl.Infrastructure\obj\Debug\net8.0\MotorControl.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\laume\OneDrive\Documentos\PRUEBAS\CarroPruebaTR\backend\src\MotorControl.Infrastructure\obj\Debug\net8.0\MotorCon.2D7B1C69.Up2Date
+C:\Users\laume\OneDrive\Documentos\PRUEBAS\CarroPruebaTR\backend\src\MotorControl.Infrastructure\obj\Debug\net8.0\MotorControl.Infrastructure.dll
+C:\Users\laume\OneDrive\Documentos\PRUEBAS\CarroPruebaTR\backend\src\MotorControl.Infrastructure\obj\Debug\net8.0\refint\MotorControl.Infrastructure.dll
+C:\Users\laume\OneDrive\Documentos\PRUEBAS\CarroPruebaTR\backend\src\MotorControl.Infrastructure\obj\Debug\net8.0\MotorControl.Infrastructure.pdb
+C:\Users\laume\OneDrive\Documentos\PRUEBAS\CarroPruebaTR\backend\src\MotorControl.Infrastructure\obj\Debug\net8.0\ref\MotorControl.Infrastructure.dll

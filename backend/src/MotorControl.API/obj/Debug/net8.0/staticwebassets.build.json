@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "1zq9R3eGwDeScohpXU3SFzPg8aB5JT/Z7b1pA5wNzME=",
+  "Source": "MotorControl.API",
+  "BasePath": "_content/MotorControl.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

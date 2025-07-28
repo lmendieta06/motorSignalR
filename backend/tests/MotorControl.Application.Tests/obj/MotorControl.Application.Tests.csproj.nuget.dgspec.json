@@ -1,0 +1,215 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\laume\\OneDrive\\Documentos\\PRUEBAS\\CarroPruebaTR\\backend\\tests\\MotorControl.Application.Tests\\MotorControl.Application.Tests.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\laume\\OneDrive\\Documentos\\PRUEBAS\\CarroPruebaTR\\backend\\src\\MotorControl.Application\\MotorControl.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\laume\\OneDrive\\Documentos\\PRUEBAS\\CarroPruebaTR\\backend\\src\\MotorControl.Application\\MotorControl.Application.csproj",
+        "projectName": "MotorControl.Application",
+        "projectPath": "C:\\Users\\laume\\OneDrive\\Documentos\\PRUEBAS\\CarroPruebaTR\\backend\\src\\MotorControl.Application\\MotorControl.Application.csproj",
+        "packagesPath": "C:\\Users\\laume\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\laume\\OneDrive\\Documentos\\PRUEBAS\\CarroPruebaTR\\backend\\src\\MotorControl.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\laume\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\laume\\OneDrive\\Documentos\\PRUEBAS\\CarroPruebaTR\\backend\\src\\MotorControl.Domain\\MotorControl.Domain.csproj": {
+                "projectPath": "C:\\Users\\laume\\OneDrive\\Documentos\\PRUEBAS\\CarroPruebaTR\\backend\\src\\MotorControl.Domain\\MotorControl.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.412/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\laume\\OneDrive\\Documentos\\PRUEBAS\\CarroPruebaTR\\backend\\src\\MotorControl.Domain\\MotorControl.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\laume\\OneDrive\\Documentos\\PRUEBAS\\CarroPruebaTR\\backend\\src\\MotorControl.Domain\\MotorControl.Domain.csproj",
+        "projectName": "MotorControl.Domain",
+        "projectPath": "C:\\Users\\laume\\OneDrive\\Documentos\\PRUEBAS\\CarroPruebaTR\\backend\\src\\MotorControl.Domain\\MotorControl.Domain.csproj",
+        "packagesPath": "C:\\Users\\laume\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\laume\\OneDrive\\Documentos\\PRUEBAS\\CarroPruebaTR\\backend\\src\\MotorControl.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\laume\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.412/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\laume\\OneDrive\\Documentos\\PRUEBAS\\CarroPruebaTR\\backend\\tests\\MotorControl.Application.Tests\\MotorControl.Application.Tests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\laume\\OneDrive\\Documentos\\PRUEBAS\\CarroPruebaTR\\backend\\tests\\MotorControl.Application.Tests\\MotorControl.Application.Tests.csproj",
+        "projectName": "MotorControl.Application.Tests",
+        "projectPath": "C:\\Users\\laume\\OneDrive\\Documentos\\PRUEBAS\\CarroPruebaTR\\backend\\tests\\MotorControl.Application.Tests\\MotorControl.Application.Tests.csproj",
+        "packagesPath": "C:\\Users\\laume\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\laume\\OneDrive\\Documentos\\PRUEBAS\\CarroPruebaTR\\backend\\tests\\MotorControl.Application.Tests\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\laume\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\laume\\OneDrive\\Documentos\\PRUEBAS\\CarroPruebaTR\\backend\\src\\MotorControl.Application\\MotorControl.Application.csproj": {
+                "projectPath": "C:\\Users\\laume\\OneDrive\\Documentos\\PRUEBAS\\CarroPruebaTR\\backend\\src\\MotorControl.Application\\MotorControl.Application.csproj"
+              },
+              "C:\\Users\\laume\\OneDrive\\Documentos\\PRUEBAS\\CarroPruebaTR\\backend\\src\\MotorControl.Domain\\MotorControl.Domain.csproj": {
+                "projectPath": "C:\\Users\\laume\\OneDrive\\Documentos\\PRUEBAS\\CarroPruebaTR\\backend\\src\\MotorControl.Domain\\MotorControl.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.8.0, )"
+            },
+            "Moq": {
+              "target": "Package",
+              "version": "[4.20.72, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.5.3, )"
+            },
+            "xunit.runner.visualstudio": {
+              "target": "Package",
+              "version": "[2.5.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.412/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

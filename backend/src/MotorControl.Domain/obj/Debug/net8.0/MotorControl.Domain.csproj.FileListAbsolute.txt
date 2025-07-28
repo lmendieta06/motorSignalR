@@ -1,0 +1,11 @@
+C:\Users\laume\OneDrive\Documentos\PRUEBAS\CarroPruebaTR\backend\src\MotorControl.Domain\bin\Debug\net8.0\MotorControl.Domain.deps.json
+C:\Users\laume\OneDrive\Documentos\PRUEBAS\CarroPruebaTR\backend\src\MotorControl.Domain\bin\Debug\net8.0\MotorControl.Domain.dll
+C:\Users\laume\OneDrive\Documentos\PRUEBAS\CarroPruebaTR\backend\src\MotorControl.Domain\bin\Debug\net8.0\MotorControl.Domain.pdb
+C:\Users\laume\OneDrive\Documentos\PRUEBAS\CarroPruebaTR\backend\src\MotorControl.Domain\obj\Debug\net8.0\MotorControl.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\laume\OneDrive\Documentos\PRUEBAS\CarroPruebaTR\backend\src\MotorControl.Domain\obj\Debug\net8.0\MotorControl.Domain.AssemblyInfoInputs.cache
+C:\Users\laume\OneDrive\Documentos\PRUEBAS\CarroPruebaTR\backend\src\MotorControl.Domain\obj\Debug\net8.0\MotorControl.Domain.AssemblyInfo.cs
+C:\Users\laume\OneDrive\Documentos\PRUEBAS\CarroPruebaTR\backend\src\MotorControl.Domain\obj\Debug\net8.0\MotorControl.Domain.csproj.CoreCompileInputs.cache
+C:\Users\laume\OneDrive\Documentos\PRUEBAS\CarroPruebaTR\backend\src\MotorControl.Domain\obj\Debug\net8.0\MotorControl.Domain.dll
+C:\Users\laume\OneDrive\Documentos\PRUEBAS\CarroPruebaTR\backend\src\MotorControl.Domain\obj\Debug\net8.0\refint\MotorControl.Domain.dll
+C:\Users\laume\OneDrive\Documentos\PRUEBAS\CarroPruebaTR\backend\src\MotorControl.Domain\obj\Debug\net8.0\MotorControl.Domain.pdb
+C:\Users\laume\OneDrive\Documentos\PRUEBAS\CarroPruebaTR\backend\src\MotorControl.Domain\obj\Debug\net8.0\ref\MotorControl.Domain.dll

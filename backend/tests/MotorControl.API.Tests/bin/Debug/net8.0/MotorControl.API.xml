@@ -1,0 +1,72 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>MotorControl.API</name>
+    </assembly>
+    <members>
+        <member name="M:MotorControl.API.Controllers.MotorController.SetSpeed(MotorControl.Application.DTOs.Requests.SetSpeedRequest)">
+             <summary>
+             Sets the motor speed
+             </summary>
+             <param name="request">Speed value between 0 and 100</param>
+             <returns>Motor response with current status</returns>
+             <remarks>
+             Sample request:
+            
+                 POST /api/motor/speed
+                 {
+                    "speed": 50
+                 }
+            
+             </remarks>
+             <response code="200">Speed set successfully</response>
+             <response code="400">Invalid speed value</response>
+        </member>
+        <member name="M:MotorControl.API.Controllers.MotorController.ChangeMode(MotorControl.Application.DTOs.Requests.ChangeModeRequest)">
+             <summary>
+             Changes the driving mode
+             </summary>
+             <param name="request">Driving mode: Eco, Normal, or Sport</param>
+             <returns>Motor response with current status</returns>
+             <remarks>
+             Sample request:
+            
+                 POST /api/motor/mode
+                 {
+                    "mode": "Sport"
+                 }
+            
+             Valid modes: Eco, Normal, Sport
+             </remarks>
+             <response code="200">Mode changed successfully</response>
+             <response code="400">Invalid mode</response>
+        </member>
+        <member name="M:MotorControl.API.Controllers.MotorController.GetStatus">
+            <summary>
+            Gets the current motor status
+            </summary>
+            <returns>Current motor status and telemetry</returns>
+            <remarks>
+            Returns real-time motor data including:
+            - Current and target speed
+            - Temperature and RPM
+            - Driving mode and status
+            - Power output
+            </remarks>
+            <response code="200">Motor status retrieved successfully</response>
+        </member>
+        <member name="M:MotorControl.API.Controllers.MotorController.EmergencyStop">
+            <summary>
+            Emergency stop - immediately stops the motor
+            </summary>
+            <returns>Motor response confirming emergency stop</returns>
+            <remarks>
+            EMERGENCY STOP: Immediately sets speed to 0 and puts motor in emergency state.
+            Motor will not respond to other commands until restarted.
+            
+            No request body required.
+            </remarks>
+            <response code="200">Emergency stop activated successfully</response>
+        </member>
+    </members>
+</doc>
